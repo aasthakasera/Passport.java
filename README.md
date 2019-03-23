@@ -18,3 +18,8 @@ This code help users to know whether their passport is valid or not in a particu
 
 ![image](https://user-images.githubusercontent.com/45789780/54863323-3a83c900-4d6d-11e9-8ee3-c0bf2c5561d5.png)
 
+More examples to define classes and objects in java :
+
+https://codeboard.io/projects/45945
+
+https://codeboard.io/projects/45945
