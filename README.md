@@ -22,4 +22,6 @@ More examples to define classes and objects in java :
 
 https://codeboard.io/projects/45945
 
-https://codeboard.io/projects/45945
+https://codeboard.io/projects/45947
+
+https://codeboard.io/projects/45951
